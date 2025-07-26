@@ -1,1 +1,2 @@
-# SPA-Wordly
+# SPA-Wordly : In this lab, you will create a Single Page Application (SPA) that follows modern web development practices, giving you hands-on experience with essential skills. Implementing event listeners to make your application interactive, such as responding to button clicks or form submissions. Use fetch requests to interact with APIs, enabling dynamic content updates by retrieving or sending data to external services. Finally, manipulate HTML and CSS elements with JavaScript to update the page dynamically, ensuring a seamless and user-friendly experience.
+
